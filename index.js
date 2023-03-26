@@ -31,3 +31,7 @@ if (randomNumber1 > randomNumber2) {
     }
     
 
+//button refresh
+function refreshPage(){
+    window.location.reload();
+}
